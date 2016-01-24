@@ -85,4 +85,3 @@ Send message [text] to [int] channel in the channels list.
 
 SlackClient.server.**channnels.find([identifier]).send_message([text])**  
 Send message [text] to channel [identifier], which can be either channel name or ID. Ex "#general" or "C182391"
-
